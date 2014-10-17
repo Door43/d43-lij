@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lij:home|Door43 (lij)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lij|d43-lij repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lij/archive/master.zip|d43-lij.zip]]
+
+**Recent Changes**
+{{changes>ns = lij}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lij|Ethnologue data]]
+
